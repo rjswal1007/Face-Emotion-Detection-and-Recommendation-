@@ -6,4 +6,6 @@ just in the last few years, can be termed nothing short of
 revolutionary: Imagine this aspect of mental illnesses—a
 whole wide range of complex and multi-faceted problems
 stemming out of a combination of biological, psychological,
-and environmental factors
+and environmental factors.
+ After the face Detection Recommendation According to output.
+ 
